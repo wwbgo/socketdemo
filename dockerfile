@@ -1,4 +1,4 @@
-FROM python:3.6 AS base
+FROM python:3.6-slim AS base
 MAINTAINER wwb
 EXPOSE 80
 
